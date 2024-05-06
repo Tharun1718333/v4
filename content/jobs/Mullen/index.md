@@ -1,12 +1,13 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2022'
+title: 'Data Engineering Intern'
+company: 'Gojek'
+location: 'Bangalore'
+range: 'June - Sep 2022'
+url: 'https://www.gojek.io/'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Developed a command line interface in Go for an internal data migration scheduling tool, enhancing usability and efficiency of data management processes.
+- Created comprehensive tutorial features within the tool to guide users on command usage, streamlining adoption and reducing learning curve.
+- Documented and conducted rigorous unit and integration testing to ensure reliability and functionality of the CLI tool, guaranteeing robust performance in production environments.
+- Resolved critical cyclic dependency issues affecting production by refactoring the logging infrastructure, improving system stability and maintainability.

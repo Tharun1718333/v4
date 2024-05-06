@@ -1,12 +1,12 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
+date: '2024'
+title: 'Full Stack Developer'
+company: 'DataLink'
 location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+range: 'July 2023 - Present'
+url: https://datalinksoftware.com/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Successfully led a comprehensive migration project, transitioning a significant portion of a code base from Entity Framework 6 to Entity Framework Core 2 within a tight timeframe of 6 months, demonstrating adeptness in database technology and version migration strategies.
+- Spearheaded the implementation of 21 new backend features leveraging C# within the .NET framework, contributing to the enhancement and expansion of core application functionalities.
+- Enhanced frontend user experiences by reworking select screens to incorporate additional functionalities, seamlessly integrating these updates with the existing backend APIs to ensure robust performance and compatibility across platforms.
